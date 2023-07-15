@@ -54,3 +54,34 @@ apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 apkmirror-arch = "arm64-v8a"
 build-mode = "both"
 version = "auto"
+
+[Sync]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/"
+apkmirror-arch = "arm64-v8a"
+build-mode = "both"
+version = "auto"
+
+[NetGuard]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/marcel-bokhorst/netguard-no-root-firewall/"
+apkmirror-arch = "arm64-v8a"
+build-mode = "both"
+version = "auto"
+included-patches = "remove-broadcasts-restriction"
+
+[Recorder]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-recorder/"
+apkmirror-arch = "both"
+build-mode = "both"
+version = "auto"
+
+[Trakt]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/trakt/trakt/"
+apkmirror-arch = "arm64-v8a"
+build-mode = "both"
+version = "auto"
+
+[VSCO]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/vsco/vsco-cam/"
+apkmirror-arch = "arm64-v8a"
+build-mode = "both"
+version = "auto"
