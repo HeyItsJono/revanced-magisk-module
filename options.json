@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "patchName": "change-oauth-client-id",
+    "options": [
+      {
+        "key": "client-id",
+        "value": "e_e4__Qx83W-esBH4w3rqA"
+      }
+    ]
+  },
+  {
+    "patchName": "change-oauth-client-id",
+    "options": [
+      {
+        "key": "client-id",
+        "value": "e_e4__Qx83W-esBH4w3rqA"
+      }
+    ]
+  },
+  {
+    "patchName": "change-oauth-client-id",
+    "options": [
+      {
+        "key": "client-id",
+        "value": "e_e4__Qx83W-esBH4w3rqA"
+      }
+    ]
+  }
+]
