@@ -46,6 +46,8 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
 
 [TikTok]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+version = "30.8.4"
+excluded-patches = ""
 
 [Reddit]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
